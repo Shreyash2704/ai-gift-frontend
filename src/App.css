@@ -1,0 +1,204 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: "white";
+  /*https://www.chatgptguide.ai/wp-content/uploads/2023/04/GIft-Ideas-Internal_MAIN-2.png*/
+  background: url('https://cityfurnish.com/blog/wp-content/uploads/2023/07/wrapped-gift-box-with-shiny-gold-decoration-generated-by-ai-min.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+header {
+
+
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 40vh;
+}
+
+.container {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+  box-sizing: border-box;
+
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.recommendation {
+  display: flex;
+  overflow-x: hidden;
+  justify-content: space-between;
+
+}
+
+.gift-card {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 1rem;
+  padding: 1.5rem;
+  max-width: 300px;
+  text-align: center;
+}
+
+.gift-image_ {
+  max-width: 300px;
+  /* Adjust this value to your desired max width */
+  max-height: 200px;
+  /* Adjust this value to your desired max height */
+  display: block;
+  margin: 0 auto;
+  /* Center the image horizontally */
+  padding: 10px;
+}
+
+.cardsParent {
+  padding: 10px;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+}
+
+.ant-modal .ant-modal-content {
+  background-color: #656464;
+  padding: 10px;
+  color: aliceblue;
+  padding: 40px;
+
+}
+
+.ant-modal-title {
+  background-color: #656464;
+  color: #fff;
+}
+
+.ant-form-item-required {
+  color: #fff;
+}
+
+.ant-input {
+  background-color: rgb(64, 65, 65);
+  color: aliceblue;
+  padding: 5px;
+}
+
+.gift-card {
+  width: 300px;
+  margin: 16px;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.gift-title {
+  font-size: 1.5rem;
+  margin: 8px 0;
+  text-align: center;
+}
+
+.gift-price {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.previous-price {
+  color: #999;
+  text-decoration: line-through;
+}
+
+.condition-rating {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.condition-rating p {
+  margin-right: 10px;
+}
+
+.reviews {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.store-rating {
+  display: flex;
+  align-items: center;
+  color: #555;
+  justify-content: space-between;
+  margin-bottom: 8px;
+
+}
+
+.comparison {
+  margin-bottom: 8px;
+}
+
+.gift-description {
+
+  color: #555;
+  font-size: 0.9rem;
+}
+
+.buy-button {
+  width: 100%;
+  margin-top: 16px;
+}
+
+/* CustomForm.css */
+.custom-form {
+  max-width: 100%;
+  margin: 0 auto;
+
+}
+
+
+.custom-form label {
+  color: #fff;
+  /* White color for labels */
+}
+
+.custom-form .ant-form-item-label {
+  line-height: 32px;
+}
+
+.custom-form .ant-input {
+
+  border-radius: 4px;
+  padding: 10px;
+
+}
+
+.custom-form .ant-form-item-control {
+  margin-bottom: 16px;
+}
+
+.custom-form .ant-btn {
+  width: 100%;
+}
+
+@media (max-width: 576px) {
+  .custom-form {
+    max-width: 100%;
+  }
+  .gift-image_{
+    max-width: 50%;
+  /* Adjust this value to your desired max width */
+ 
+  }
+}

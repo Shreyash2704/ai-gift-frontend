@@ -1,0 +1,89 @@
+{
+    "gifts":[
+        {
+            "id":1,
+            "title":"Gift 1",
+            "image":"https://artfina.in/wp-content/uploads/2019/09/chocolate-box-gift-small.jpg",
+            "price": "$50",
+            "old_price": "$70",
+            "second_hand_condition": "Like New",
+            "rating": 4.5,
+            "reviews": 120,
+            "store_rating": 4.8,
+            "store_reviews": 500,
+            "number_of_comparisons": 10,
+            "description": "This is a wonderful gift option..."
+        },
+        {
+            "id":2,
+            "title":"Gift 2",
+            "image":"https://m.media-amazon.com/images/I/61ZqUUvcf5L._AC_UF894,1000_QL80_.jpg",
+            "price": "$50",
+            "old_price": "$70",
+            "second_hand_condition": "Like New",
+            "rating": 4.5,
+            "reviews": 120,
+            "store_rating": 4.8,
+            "store_reviews": 500,
+            "number_of_comparisons": 10,
+            "description": "This is a wonderful gift option..."
+        },
+        {
+            "id":3,
+            "title":"Gift 3",
+            "image":"https://vivagifts.in/wp-content/uploads/2022/04/Personalized-Birthday-Hamper-For-Boys-Birthday-Combo-For-Him-Gift-For-Love-Birthday-Gifts-For-Boyfriend-Birthday-Gifts-For-Husband-2-600x600.jpeg",
+            "price": "$50",
+            "old_price": "$70",
+            "second_hand_condition": "Like New",
+            "rating": 4.5,
+            "reviews": 120,
+            "store_rating": 4.8,
+            "store_reviews": 500,
+            "number_of_comparisons": 10,
+            "description": "Description............"
+        },
+        {
+            "id":4,
+            "title":"Gift 4",
+            "image":"https://i.redd.it/cix403g2eci51.jpg",
+            "price": "$50",
+            "old_price": "$70",
+            "second_hand_condition": "Like New",
+            "rating": 4.5,
+            "reviews": 120,
+            "store_rating": 4.8,
+            "store_reviews": 500,
+            "number_of_comparisons": 10,
+            "description": "Description............"
+        },
+        {
+            "id":5,
+            "title":"Gift 5",
+            "image":"https://images-cdn.ubuy.co.in/63b2065dd8a0622b1011ed43-white-elephant-gift-preserved-real-rose.jpg",
+            "price": "$50",
+            "old_price": "$70",
+            "second_hand_condition": "Like New",
+            "rating": 4.5,
+            "reviews": 120,
+            "store_rating": 4.8,
+            "store_reviews": 500,
+            "number_of_comparisons": 10,
+            "description": "Description............"
+        },
+        {
+            "id":6,
+            "title":"Gift 6",
+            "image":"https://imgcdn.floweraura.com/ultimate-chocolate-gift-box-9871077gf-C_6.jpg",
+            "price": "$50",
+            "old_price": "$70",
+            "second_hand_condition": "Like New",
+            "rating": 4.5,
+            "reviews": 120,
+            "store_rating": 4.8,
+            "store_reviews": 500,
+            "number_of_comparisons": 10,
+            "description": "This is a wonderful gift option..."
+        }
+
+    ]
+}
