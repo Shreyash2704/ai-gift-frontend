@@ -192,12 +192,12 @@ footer {
   width: 100%;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 786px) {
   .custom-form {
     max-width: 100%;
   }
-  .gift-image_{
-    max-width: 50%;
+  .recommendation{
+    overflow-x: scroll;
   /* Adjust this value to your desired max width */
  
   }
