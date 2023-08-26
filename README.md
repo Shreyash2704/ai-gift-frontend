@@ -7,3 +7,5 @@ Now after validation is done, the application will fetch Gifts Json data and ren
 
 For integration with backend AI, we will need to make an Post API call to backend with Form data and in return gets the gift recommedation from AI. That would be render on screen.
 
+Application Deployed at below uri.
+##https://shreyash2704.github.io/ai-gift-frontend/
