@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ai-gift-frontend/static/css/main.efe7f56d.css",
+    "main.js": "/ai-gift-frontend/static/js/main.dbdab834.js",
+    "static/js/787.da130070.chunk.js": "/ai-gift-frontend/static/js/787.da130070.chunk.js",
+    "index.html": "/ai-gift-frontend/index.html",
+    "main.efe7f56d.css.map": "/ai-gift-frontend/static/css/main.efe7f56d.css.map",
+    "main.dbdab834.js.map": "/ai-gift-frontend/static/js/main.dbdab834.js.map",
+    "787.da130070.chunk.js.map": "/ai-gift-frontend/static/js/787.da130070.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efe7f56d.css",
+    "static/js/main.dbdab834.js"
+  ]
+}
